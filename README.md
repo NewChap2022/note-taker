@@ -21,5 +21,15 @@ express; generate unique id
 ## Reflection
 Understand express documentation takes time. With more practices, it will help me to use express.js more effectively.
 
+## Screenshot for app
+
+**START PAGE**
+
+<img src=".\assets\index screenshot.png" alt="start page screenshot" width ="778" height="562"/>
+
+**NOTES PAGE**
+
+<img src=".\assets\notes screenshot.png" alt="start page screenshot" width ="778" height="562"/>
+
 ## Deployed App Link
 https://frozen-woodland-71681.herokuapp.com/
